@@ -7,7 +7,7 @@
 
 # Student Details
 
-**Name:** Advait Pravin Raut  
+**Name:** Asmit Sunil Kolte
 **Division:** SOC - 03  
-**Roll No.:** 07  
-**Enrollment Number:** `Can't write here for privacy concerns`
+**Roll No.:** 21  
+**Enrollment Number:** `ADT25SOCB0262 Can't write here for privacy concerns`
