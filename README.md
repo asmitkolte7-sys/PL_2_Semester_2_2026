@@ -1,2 +1,13 @@
-# PL_2_Semester_2_2026
-This repository contains the Experiment Codes for the PL-2 Course Done in Semester 2
+# Course Details
+
+**Course Name:** Programming Language - 2: C++ Programming  
+**Professor:** Bajirao Salunke  
+
+---
+
+# Student Details
+
+**Name:** Advait Pravin Raut  
+**Division:** SOC - 03  
+**Roll No.:** 07  
+**Enrollment Number:** `Can't write here for privacy concerns`
